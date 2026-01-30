@@ -1,4 +1,5 @@
 # Задание 1
+![экран](Bugs%20QA%20Trainee%20Assignment%20Autumn%202025.png)
 ### Окружение:
 
 Платформа: web
